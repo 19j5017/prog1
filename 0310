@@ -1,0 +1,30 @@
+for x in range(100):
+    print("Hello")
+
+for x in range(3):
+    print("Hello")
+    
+for x in range(3):
+    print("Hello World")
+    
+for x in range(3):
+    print("Hello")
+    print("World")
+    
+for x in range(3):
+    print("Hello")
+for x in range(3):
+    print("World")
+    
+for x in range(3):
+    print("Hello")
+    print("World")
+for x in range(3):
+    print("Hello World")
+
+for x in range(10):
+    print(x)
+    
+for x in range(100):
+    print(x)
+    
