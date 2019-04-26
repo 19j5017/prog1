@@ -1,0 +1,7 @@
+a=10
+b=0
+for x in range(7):
+    a=a+5
+    b=b+a-5
+    x=x+1
+    print(b/x,end=" ")
