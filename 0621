@@ -1,6 +1,6 @@
 h=173.5
 w=75.5
-b=10000*w/h*h
+b=10000*w/h**2
 if(b<=18.5):
     print("ClassA",end=" ")
 else:
