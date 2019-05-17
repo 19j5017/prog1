@@ -5,6 +5,6 @@ if(b<=18.5):
     print("ClassA")
 else:
     if(18.5<b<=25.0):
-        print(ClassB)
+        print("ClassB")
     else:
         print("ClassX")
